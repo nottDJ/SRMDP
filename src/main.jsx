@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import DPRoadmap from './DPRoadmap.jsx'
+import Recursion from './Recursion.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <DPRoadmap />
+    <Recursion />
   </React.StrictMode>,
 )
